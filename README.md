@@ -15,11 +15,10 @@ The team creating this collection of exercises is made by:
 - X. Yang (IxD Manager)
 - C. Leivas (IxD Junior Designer)
 - T. Hansson (IxD Junior Designer)
-- L. Shkirando (IxD Intern)
 - L. Balboa (Art Direction)
 - K. Engdahl (3D Modelling Intern)
-- T. Pham (Typesetting and English Language Supervison)
-- A. Goransson (Programming Wizard)
-- D. Cuartielles (Coordination and Spanish Language Supervision)
+- T. Pham (Design and English Language Supervison)
+- K. Arija (Spanish Translation)
+- D. Cuartielles (Coordination)
 
 If you want to collaborate by adding translations to this collection of exercises, just send us a note to d.cuartielles AT arduino.cc
